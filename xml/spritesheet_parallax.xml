@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="../sprites/parallax.png">
+	<SubTexture name="0" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="1" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="2" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="3" x="0" y="3240" width="1920" height="1080"/>
+</TextureAtlas>
